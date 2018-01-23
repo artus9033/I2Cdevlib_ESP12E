@@ -43,8 +43,8 @@ THE SOFTWARE.
 ===============================================
 */
 
-#ifndef _I2CDEV_H_
-#define _I2CDEV_H_
+#ifndef _I2CDEV_ESP12E_H_
+#define _I2CDEV_ESP12E_H_
 
 // -----------------------------------------------------------------------------
 // I2C interface implementation setting
